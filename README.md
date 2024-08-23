@@ -1,0 +1,1 @@
+# NextJS_Stock_Management_System_MongoDB
